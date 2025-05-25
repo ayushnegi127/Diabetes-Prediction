@@ -25,10 +25,10 @@ This is a Streamlit-based web application that predicts the likelihood of diabet
 ## 📷 Screenshot
 
 **Main Page**
-![App Screenshot](path-to-screenshot-if-any.png)
+![App Screenshot](Screenshot/ScreenShot 1.png)
 
 **Explainable AI**
-![App Screenshot](path-to-screenshot-if-any.png)
+![App Screenshot](Screenshot/ScreenShot 2.png)
 
 ## 📌 How to Run the Project
 
