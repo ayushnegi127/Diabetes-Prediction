@@ -24,9 +24,9 @@ This is a Streamlit-based web application that predicts the likelihood of diabet
 
 ## 📷 Screenshot
 
-**Main Page**
+
 ![](https://github.com/ayushnegi127/diabetes-prediction/blob/main/Screenshot/ScreenShot 1.png)
-**Explainable AI**
+
 ![](https://github.com/ayushnegi127/diabetes-prediction/blob/main/Screenshot/ScreenShot 2.png)
 
 ## 📌 How to Run the Project
