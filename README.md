@@ -37,12 +37,15 @@ This is a Streamlit-based web application that predicts the likelihood of diabet
    git clone https://github.com/ayushnegi127/diabetes-prediction.git
    cd diabetes-prediction
 2. **Create a virtual environment and activate it**
+   ```bash
    python -m venv venv
    source venv/bin/activate   # On Windows: venv\Scripts\activate
 
-3. **Install the dependencies**
+4. **Install the dependencies**
+   ```bash
    pip install -r requirements.txt
 
 3. **Run the Streamlit app**
+   ```bash
    streamlit run app.py
 
